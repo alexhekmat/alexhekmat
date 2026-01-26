@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hey, I'm Alexander! I am currently a third-year student at Columbia University, Columbia College majoring in Computer Science.
+
+### Prgramming Languages I Use: 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 📫 How to reach me: ahekmat@hekmat.com or [LinkedIn](https://www.linkedin.com/in/alexanderhekmat/)
 <!--
 **alexhekmat/alexhekmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+### 📫 How to reach me: ahekmat@hekmat.com or [LinkedIn](https://www.linkedin.com/in/alexanderhekmat/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
