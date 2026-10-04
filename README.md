@@ -27,7 +27,7 @@ Hey, I'm Alexander! I am currently a third-year student at Columbia University, 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 📫 How to reach me: ahekmat@hekmat.com or [LinkedIn](https://www.linkedin.com/in/alexanderhekmat/)
+### 📫 How to reach me: a.hekmat@columbia.edu or [LinkedIn](https://www.linkedin.com/in/alexanderhekmat/)
 <!--
 **alexhekmat/alexhekmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
