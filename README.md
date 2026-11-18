@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hey, I'm Alexander! I am currently a third-year student at Columbia University, Columbia College majoring in Computer Science.
+Hey, I'm Alexander! I am currently a senior at Columbia University, Columbia College majoring in Computer Science.
 
 ### Prgramming Languages I Use: 
 
